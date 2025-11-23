@@ -112,6 +112,11 @@ content:
       title="Forest disc golf"
       style="display:block;margin-left:auto;margin-right:auto;width:50%;">
 
+  - title: Downloads
+    layout: text
+    content: |
+      [📄 Download CV (PDF)](files/Lukasz_Jalocha_CV.pdf)
+
 
 # Footer
 footer_show_references: false
