@@ -6,114 +6,115 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Łukasz Jałocha
+title: Backend Software Engineer
+email: lukaszjalocha55@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+github_username:  dezo505
+linkedin_username: lukasz-jalocha
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+about_content: |
+  **Java Backend Software Engineer** focused on building scalable and reliable backend systems.
+  I work with **Java**/**Kotlin**, **Spring Boot**, **microservices**, and **cloud technologies**, creating clean, maintainable code and well-designed backend architectures. On a daily basis, I contribute to Agile development workflows, collaborate closely with my team, and continuously develop my skills to deliver efficient and robust solutions.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        title: EPAM Systems
+        sub_title: Software Engineer
+        caption: January 2025 - Present
+        description: |
+          At EPAM, I work as a Software Engineer in a team focused on **modernizing and migrating large-scale enterprise systems**. I contribute across **multiple repositories**, implementing new features, improving existing components, and ensuring alignment with **architectural guidelines**. I collaborate closely with other developers and actively participate in **Agile ceremonies** to support efficient delivery and continuous improvement.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+      - layout: left
+        title: Grid Dynamics
+        sub_title: Junior Software Engineer
+        caption: February 2024 - December 2024
+        description: |
+          At Grid Dynamics, I worked on both long-term **API maintenance** and a cross-functional initiative delivering a **new feature** within a **distributed system**. I implemented new functionality, improved **application stability**, documented technical processes, and performed code reviews. I collaborated daily with a global, **internationally distributed team**, coordinating work across multiple time zones and cultures, which strengthened my communication and teamwork skills in a remote-first environment.
+
+      - layout: left
+        title: Capgemini
+        sub_title: Software Engineer Intern
+        caption: May 2022 - April 2023
+        description: |
+          During my internship at Capgemini, I completed a structured **backend development learning path** and worked as a backend developer on an **internal productivity-enhancing project**. I supported the team by preparing detailed **technical documentation** and participating in the full **Agile** Scrum workflow. This role provided me with a solid **foundation in backend engineering** and collaborative software development.
+
+  - title: Core Skills
+    layout: list
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Technical Skills
+        description: |
+          - Java / Kotlin
+          - Spring Boot
+          - Gradle / Maven
+          - Google Cloud Platform & Azure
+          - Docker
+          - SQL / MongoDb
+          - Microservices Architecture
+          - REST API
+          - Git
+      - layout: left
+        title: Language
+        description: |
+          - Polish - **Native**
+          - English - **C1**
+          - Spanish - **A2**
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Certificates
+    layout: text
+    content: |
+      - **Google**, Google Cloud Certified - Associate Cloud Engineer (2024)
+      - **Microsoft**, Microsoft Certified - Azure Fundamentals (2023)
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Wrocław University of Science and Technology (PWr)
+        caption: 2021 - 2025
+        sub_title: BSc (inż.) Computer Science
+        description: |
+          During my studies at PWr, I built strong foundations in software engineering, algorithms, distributed systems, and backend development.
+          
+          As part of my engineering group project, I co-created **Ear Defender**, a multi-container audio-analysis platform that won **2nd** place in the university’s Creativity competition. You can learn more in my LinkedIn post [here](https://www.linkedin.com/posts/lukasz-jalocha_deepfakes-are-getting-better-but-so-are-activity-7398331277914849281-DL--?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrGqnsBArzAtd3SNxhPE789REHTHj7jMjQ).
+          
+          I was also active in a medical-informatics AI research club, where I worked under a professor’s supervision to experiment with algorithms for classifying cells from medical images.
+      - layout: left
+        title: University of Lower Silesia (DSW)
+        caption: 2025 - Present
+        sub_title: Master IT Project Management
+        description: |
+          I am currently beginning my part-time Master’s studies at DSW. My goal is to strengthen my competencies beyond technical skills and prepare for future opportunities in leadership roles, including team management and guiding engineering initiatives.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: |
+      Outside of software engineering, I enjoy both home-based and physical activities. At home, I like **chess**, **cooking**, and **computer games**, which help me relax and stay mentally sharp. I also enjoy **disc golf** and **powerlifting**, which keep me active and competitive.
+      
+      <p></p>
+      <p style="text-align: center; font-style: italic;">
+      Here’s a photo of me playing disc golf 😄
+      </p>
+      
+      <img src="images/disc-golf.jpg"
+      alt="Disc-golf"
+      title="Forest disc golf"
+      style="display:block;margin-left:auto;margin-right:auto;width:50%;">
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
@@ -124,4 +125,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
