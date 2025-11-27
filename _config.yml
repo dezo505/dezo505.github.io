@@ -62,7 +62,7 @@ content:
           - **Build tools**: Gradle, Maven
           - **Databases**: SQL, MongoDb
       - layout: left
-        title: Language
+        title: Languages
         description: |
           - Polish - **Native**
           - English - **C1**
@@ -108,6 +108,11 @@ content:
       alt="Disc-golf"
       title="Forest disc golf"
       style="display:block;margin-left:auto;margin-right:auto;width:50%;">
+
+  - title: Downloads
+    layout: text
+    content: |
+      [📄 Download CV (PDF)](files/Lukasz_Jalocha_CV.pdf)
 
 
 # Footer
