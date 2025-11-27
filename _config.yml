@@ -55,12 +55,12 @@ content:
       - layout: left
         title: Technical Skills
         description: |
-          **DevOps**: GCP, Azure, Docker, Git, CI/CD, Linux
-          **Backend**: Microservices, REST API, GRPC
-          **Languages**: Java, Kotlin, Python
-          **Frameworks**: Spring, Spring Boot, Hibernate / JPA
-          **Build tools**: Gradle, Maven
-          **Databases**: SQL, MongoDb
+          - **DevOps**: GCP, Azure, Docker, Git, CI/CD, Linux
+          - **Backend**: Microservices, REST API, GRPC
+          - **Languages**: Java, Kotlin, Python
+          - **Frameworks**: Spring, Spring Boot, Hibernate / JPA
+          - **Build tools**: Gradle, Maven
+          - **Databases**: SQL, MongoDb
       - layout: left
         title: Languages
         description: |
