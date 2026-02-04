@@ -14,59 +14,73 @@ email: lukaszjalocha55@gmail.com
 darkmode: false
 
 # Social links
-github_username:  dezo505
+github_username: dezo505
 linkedin_username: lukasz-jalocha
 
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  **Java Backend Software Engineer** focused on building scalable and reliable backend systems.
-  I work with **Java**/**Kotlin**, **Spring Boot**, **microservices**, and **cloud technologies**, creating clean, maintainable code and well-designed backend architectures. On a daily basis, I contribute to Agile development workflows, collaborate closely with my team, and continuously develop my skills to deliver efficient and robust solutions.
+  **Java Backend Engineer** specializing in **cloud-native microservices** and **distributed systems**.  
+  Experienced in modernizing enterprise applications using **Spring Boot** and **Google Cloud Platform**.  
+  Google Cloud Certified Associate Engineer with hands-on experience delivering **production systems** in **Agile environments**.
 
 content:
   - title: Experience
     layout: list
     content:
+
       - layout: left
         title: EPAM Systems
         sub_title: Software Engineer
         caption: January 2025 - Present
         description: |
-          At EPAM, I work as a Software Engineer in a team focused on **modernizing and migrating large-scale enterprise systems**. I contribute across **multiple repositories**, implementing new features, improving existing components, and ensuring alignment with **architectural guidelines**. I collaborate closely with other developers and actively participate in **Agile ceremonies** to support efficient delivery and continuous improvement.
+          • Member of a migration team modernizing legacy enterprise systems into **cloud-based microservices architecture** on Google Cloud Platform  
+          • Develop and maintain backend **API services across multiple repositories** supporting distributed cloud applications  
+          • Authored and introduced a **Kotlin coding conventions document** adopted across projects to standardize development practices  
+          • Mentor engineers across the organization — reviewing tasks, conducting demo sessions, and supporting technical skill development  
+          • Contribute to development and evolution of **cloud-native backend services** deployed on GCP  
+          • Participate in Agile ceremonies supporting iterative and high-quality delivery
 
       - layout: left
         title: Grid Dynamics
         sub_title: Junior Software Engineer
         caption: February 2024 - December 2024
         description: |
-          At Grid Dynamics, I worked on both long-term **API maintenance** and a cross-functional initiative delivering a **new feature** within a **distributed system**. I implemented new functionality, improved **application stability**, documented technical processes, and performed code reviews. I collaborated daily with a global, **internationally distributed team**, coordinating work across multiple time zones and cultures, which strengthened my communication and teamwork skills in a remote-first environment.
+          • Contributed to long-term **production API maintenance** focused on stability improvements and system enhancements  
+          • Participated in cross-functional initiatives delivering new functionality within a **distributed system architecture**  
+          • Collaborated with a globally distributed team across multiple time zones in a remote-first environment  
+          • Completed a multi-month internal education program focused on backend development and enterprise engineering practices
 
       - layout: left
         title: Capgemini
         sub_title: Software Engineer Intern
         caption: May 2022 - April 2023
         description: |
-          During my internship at Capgemini, I completed a structured **backend development learning path** and worked as a backend developer on an **internal productivity-enhancing project**. I supported the team by preparing detailed **technical documentation** and participating in the full **Agile** Scrum workflow. This role provided me with a solid **foundation in backend engineering** and collaborative software development.
+          • Completed a structured backend development training path including technical courses and engineering assessments  
+          • Contributed to development and enhancement of an internal productivity application by implementing new features and resolving defects  
+          • Prepared technical documentation supporting knowledge transfer and long-term project maintainability  
+          • Participated in Agile Scrum workflows gaining hands-on software engineering experience
 
   - title: Core Skills
     layout: list
     content:
+
       - layout: left
         title: Technical Skills
         description: |
-          - **DevOps**: GCP, Azure, Docker, Git, CI/CD, Linux
-          - **Backend**: Microservices, REST API, GRPC
-          - **Languages**: Java, Kotlin, Python
-          - **Frameworks**: Spring, Spring Boot, Hibernate / JPA
-          - **Build tools**: Gradle, Maven
-          - **Databases**: SQL, MongoDb
+          - **Languages:** Java, Kotlin, Python  
+          - **Backend:** Spring Boot, Spring, REST APIs, gRPC, Microservices, Distributed Systems, Hibernate / JPA  
+          - **Cloud & DevOps:** Google Cloud Platform, Azure, Docker, CI/CD, Git, Linux  
+          - **Databases:** SQL, MongoDB  
+          - **Build Tools:** Gradle, Maven
+
       - layout: left
         title: Languages
         description: |
-          - Polish - **Native**
-          - English - **C1**
-          - Spanish - **A2**
+          - Polish — **Native**  
+          - English — **C1**  
+          - Spanish — **A1**
 
   - title: Certificates
     layout: text
@@ -77,22 +91,22 @@ content:
   - title: Education
     layout: list
     content:
+
       - layout: left
         title: Wrocław University of Science and Technology (PWr)
         caption: 2021 - 2025
-        sub_title: BSc (inż.) Computer Science
+        sub_title: BSc Computer Science
         description: |
-          During my studies at PWr, I built strong foundations in software engineering, algorithms, distributed systems, and backend development.
-          
-          As part of my engineering group project, I co-created **Ear Defender**, a multi-container audio-analysis platform that won **2nd** place in the university’s Creativity competition. You can learn more in my LinkedIn post [here](https://www.linkedin.com/posts/lukasz-jalocha_deepfakes-are-getting-better-but-so-are-activity-7398331277914849281-DL--?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrGqnsBArzAtd3SNxhPE789REHTHj7jMjQ).
-          
-          I was also active in a medical-informatics AI research club, where I worked under a professor’s supervision to experiment with algorithms for classifying cells from medical images.
+          • Final GPA: 4.5  
+          • Engineering project **Ear Defender** awarded **2nd place** in university Creativity competition  
+          • Merit-based scholarship recipient
+
       - layout: left
         title: University of Lower Silesia (DSW)
         caption: 2025 - Present
         sub_title: Master IT Project Management
         description: |
-          I am currently beginning my part-time Master’s studies at DSW. My goal is to strengthen my competencies beyond technical skills and prepare for future opportunities in leadership roles, including team management and guiding engineering initiatives.
+          Part-time Master’s studies focused on expanding competencies in leadership, project coordination, and engineering management.
 
   - title: A Little More About Me
     layout: text
